@@ -1,0 +1,10 @@
+.con04{width:100%;float:left;margin-top:10px;}
+.con04 h2{height:40px;text-align:right;line-height:40px;border-bottom:1px solid #E50355;background:url(./images/jyzh.jpg) 0 -5px no-repeat;}
+.con04 dl{padding:10px 0;}
+*{margin:0; padding:0;}
+li{list-style:none;}
+a{text-decoration:none;color:#000;}
+a:hover{text-decoration:underline;}
+.pink{color:#E50355}
+.org{color:red;}
+body{width:980px;margin:0 auto;font-size:14px; font-family:Arial, Helvetica, sans-serif;background:#F8EFE6 url(./images/bg.jpg) center 40px no-repeat;}
